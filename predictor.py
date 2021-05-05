@@ -21,4 +21,5 @@ class ModelPredictor:
         prediction = self.predictor.predict(
             passage=payload["passage"], question=payload["question"]
         )
-        return prediction["best_span_str"]
+        # return prediction["best_span_str"]
+        return "predicted"
