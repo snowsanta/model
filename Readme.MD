@@ -1,1 +1,1 @@
-# Example Repository of a trained Model to deploy it on Cardinal :
+# Example Format of Model to submit at ML-Model-Evaluator
